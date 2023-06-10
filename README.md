@@ -10,5 +10,5 @@
 </p>
 <p align='left'>
   <img alt='Repo Card' height='100px' src='https://github-readme-stats.vercel.app/api/pin/?username=krkrkrr&repo=BigCalc' />
-  <img alt='Repo Card' height='100px' src='https://github-readme-stats.vercel.app/api/pin/?username=krkrkrr&repo=ble-macro-keyboard' />
+  <img alt='Repo Card' height='100px' src='https://github-readme-stats.vercel.app/api/pin/?username=krkrkrr&repo=panda12' />
 </p>
